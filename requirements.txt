@@ -1,0 +1,3 @@
+llama-index
+llama-index-multi-modal-llms-gemini
+llama-index-embeddings-gemini
